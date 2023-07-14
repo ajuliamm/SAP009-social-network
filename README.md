@@ -1,8 +1,6 @@
 # Code Girls 💻
 
-Terceiro projeto realizado para o Bootcamp da [Laboratória](https://www.laboratoria.la/br). O objetivo consiste em uma rede social responsiva destinada a
-unir mulheres na tecnologia. O projeto permite a interação das usuárias através da criação de postagens, curtidas, edição e exclusão das mesmas. As usuárias 
-acessam a aplicação através da criação de contas e login autenticados pelo Firebase. Todo o desenvolvimento foi realizado em SPA, Mobile First e com 100% de 
+O objetivo consiste em uma rede social responsiva destinada a unir mulheres na tecnologia. O projeto permite a interação das usuárias através da criação de postagens, curtidas, edição e exclusão das mesmas. As usuárias acessam a aplicação através da criação de contas e login autenticados pelo Firebase. Todo o desenvolvimento foi realizado em SPA, Mobile First e com 100% de 
 cobertura nos testes.
 
 ***
